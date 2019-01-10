@@ -1,0 +1,4 @@
+O
+B-bacteria
+I-bacteria
+$pad$

@@ -6,15 +6,17 @@ This project is used to recognize the bacteria in the text,the main structures o
 
 The data format as the blew:
 sentence	pos	dict	tag
+
 Actinobacillus	NNP	B-bacteria	B-bacteria
+
 actinomycetemcomitans	NNS	I-bacteria	I-bacteria
+
 ,	,	O	O
+
 Porphyromonas	NNP	B-bacteria	B-bacteria
+
 gingivalis	NN	I-bacteria	I-bacteria
-,	,	O	O
-and	CC	O	O
-Peptostreptococcus	NNP	B-bacteria	B-bacteria
-micros	NNS	I-bacteria	I-bacteria
+
 
 
 The embedding file should in   data/embeddings/

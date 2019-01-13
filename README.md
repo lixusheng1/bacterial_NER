@@ -5,6 +5,7 @@ Python3 Tensorflow==1.5.0
 This project is used to recognize the bacteria in the text,the main structures of the model are CNN+BiLSTM+CRF and  domain fature(pos,dict)
 
 The data format as the blew:
+
 sentence	pos	dict	tag
 
 Actinobacillus	NNP	B-bacteria	B-bacteria

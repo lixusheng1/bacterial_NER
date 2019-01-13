@@ -8,7 +8,9 @@ The train/valid/test file should in data/dataset_name/
 
 the pre_trained word embedding can download in  
 glove: https://nlp.stanford.edu/projects/glove/
+
 fastText:https://fasttext.cc/docs/en/english-vectors.html
+
 PubMed2vec:http://bio.nlplab.org/#word-vector-tools
 
 (1) Train 

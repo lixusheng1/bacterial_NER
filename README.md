@@ -2,7 +2,7 @@
 
 Python3 Tensorflow==1.5.0
 
-![image](https://github.com/lixusheng1/bacterial_NER/blob/master/1.png)
+#![image](https://github.com/lixusheng1/bacterial_NER/blob/master/1.png)
 
 This project is used to recognize the bacteria in the text,the main structures of the model are CNN+BiLSTM+CRF and  domain fature(pos,dict)
 

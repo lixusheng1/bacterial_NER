@@ -3,6 +3,7 @@
 Python3 Tensorflow==1.5.0
 
 The embedding file should in   data/embeddings/
+
 The train/valid/test file should in data/dataset_name/
 
 the pre_trained word embedding can download in  

@@ -16,6 +16,7 @@ PubMed2vec:http://bio.nlplab.org/#word-vector-tools
 (1) Train 
 
 python3 build_data.py
+
 python3 train.py
 
 (2) evaluate
